@@ -1,0 +1,4 @@
+Go to build path
+Check the jre
+It must be JavaSE-1.7 (jdk1.7.0_25)
+If it isnt it will throw error and pom.xml which has dropwizard-jobs dependency with also throw error.
